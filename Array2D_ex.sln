@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array2D_ex", "Array2D_ex.csproj", "{CFFBF4DE-238F-4AB8-BAE7-220AC79F4F0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFFBF4DE-238F-4AB8-BAE7-220AC79F4F0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFFBF4DE-238F-4AB8-BAE7-220AC79F4F0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFFBF4DE-238F-4AB8-BAE7-220AC79F4F0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFFBF4DE-238F-4AB8-BAE7-220AC79F4F0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B41EAA62-D4C6-4E83-B924-4B0731C0EC79}
+	EndGlobalSection
+EndGlobal
